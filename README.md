@@ -1,7 +1,7 @@
 # 💧 Maji Ndogo Water Access Dashboard  
 *A Power BI Storytelling Project Designed for Decision-Making*
 
-## 🗺️ Project Overview  
+## Project Overview  
 The goal of this project was to help national and provincial leaders in the fictional country of **Maji Ndogo** understand:
 - How water is accessed across regions  
 - Who lacks access to basic water  
@@ -10,7 +10,7 @@ The goal of this project was to help national and provincial leaders in the fict
 
 ---
 
-## 👥 User Stories That Shaped This Dashboard
+## User Stories That Shaped This Dashboard
 
 ### 🟦 1. **President Naledi (National Decision-Maker)**  
 > “I need to understand the scale of the water challenge, where we need to intervene, how much it will cost, and what outcomes to expect.”
@@ -54,7 +54,7 @@ Each province page (Sokoto, Kilimani, Akatsi, Amanzi, Hawassa) includes:
 
 ---
 
-## 💡 What I Learned  
+## What I Learned  
 
 The project gave me practice in:
 - Creating visuals that align with stakeholder questions  

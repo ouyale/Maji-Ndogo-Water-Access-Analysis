@@ -55,7 +55,6 @@ Each province page (Sokoto, Kilimani, Akatsi, Amanzi, Hawassa) includes:
 ---
 
 ## 💡 What I Learned  
-Building this report required more than tool familiarity. I had to define user needs, model data to reflect them, and turn abstract instructions into concrete visuals. Every decision — from grouping improvement types to calculating cost per citizen — was made to enhance clarity and usability.
 
 The project gave me practice in:
 - Creating visuals that align with stakeholder questions  
